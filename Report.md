@@ -68,13 +68,17 @@ This project answers the core question:
 
 Looker Studio – Data visualization & dashboard development
 
+![](images/Hotel_Bookings_Data_Import.png)
+
+![](images/Hotel_Bookings_Data_Import_2.png)
+
 Excel / Power Query – Data cleaning and preparation
 
 SQL – Data exploration and aggregation
 
 **Data Cleaning & Preparation**
 
-![](images/Hotel_Booking_Cleaning .png)
+![](images/Hotel_Booking_Cleaning.png)
 
 - Removed duplicate booking records
 
@@ -196,7 +200,7 @@ The project contains two main dashboards:
 
 **2️. Revenue & Market Segment Performance**
 
-![](images/Revenue_Insight_&_Segment_ Analysis.jpg)
+![](images/Revenue_Insight_&_Segment_Analysis.jpg)
 
 - Revenue by customer type
 
