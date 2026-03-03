@@ -74,6 +74,8 @@ SQL – Data exploration and aggregation
 
 **Data Cleaning & Preparation**
 
+![]()
+
 - Removed duplicate booking records
 
 - Handled missing values in ADR, country, and customer fields
