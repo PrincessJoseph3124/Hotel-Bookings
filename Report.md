@@ -180,7 +180,7 @@ The project contains two main dashboards:
 
 **1️. Customer Booking Behavior & Operational Trends**
 
-![](images/Booking_Behavior_Overview.jpg)
+![](images/Booking_Behavior_Overview.png)
 
 - Total bookings KPI
 
@@ -200,7 +200,7 @@ The project contains two main dashboards:
 
 **2️. Revenue & Market Segment Performance**
 
-![](images/Revenue_Insight_&_Segment_Analysis.jpg)
+![](images/Revenue_Insight_&_Segment_Analysis.png)
 
 - Revenue by customer type
 
